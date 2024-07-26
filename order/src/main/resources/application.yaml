@@ -1,0 +1,15 @@
+server:
+  port: 13000
+
+spring:
+  datasource:
+    username: root
+    password: 78963
+    url: jdbc:mysql://47.104.28.46:23306/oms?
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto

@@ -14,6 +14,7 @@
         <module>renren-fast</module>
         <module>renren-generator</module>
 
+        <module>gateway</module>
         <module>common</module>
         <module>product</module>
         <module>ware</module>

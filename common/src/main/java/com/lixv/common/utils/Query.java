@@ -19,7 +19,9 @@ import java.util.Map;
 /**
  * 查询参数
  *
- * @author Mark sunlightcs@gmail.com
+ * @author lixv
+ * @email lix-u@qq.com
+ * @date 2024-07-24 14:39:35
  */
 public class Query<T> {
 

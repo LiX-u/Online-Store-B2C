@@ -11,7 +11,9 @@ package com.lixv.common.utils;
 /**
  * 自定义异常
  *
- * @author Mark sunlightcs@gmail.com
+ * @author lixv
+ * @email lix-u@qq.com
+ * @date 2024-07-24 14:39:35
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

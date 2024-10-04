@@ -21,6 +21,7 @@
         <module>order</module>
         <module>member</module>
         <module>coupon</module>
+        <module>third-party</module>
     </modules>
 
 </project>
